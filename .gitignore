@@ -34,4 +34,6 @@ Manifest.toml
 # *.jpeg
 # *.webp
 
-/maps/
+*.tif
+
+maps/
