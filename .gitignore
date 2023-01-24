@@ -29,7 +29,9 @@ Manifest.toml
 *.xls
 *.txt
 
-*.png
-*.jpg
-*.jpeg
-*.webp
+# *.png
+# *.jpg
+# *.jpeg
+# *.webp
+
+/maps/
